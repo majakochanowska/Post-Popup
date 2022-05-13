@@ -1,5 +1,5 @@
 # Post Popup
-Popup that displays content of Custom Post Type "Popup". Requires ACF PRO plugin.
+Popup that displays content of Custom Post Type "Popup". Requires ACF plugin.
 
 On "close" button click the popup gets hidden for 30 days, unless the content of popup is changed earlier. 
 
