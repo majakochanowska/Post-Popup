@@ -1,0 +1,18 @@
+{
+    "name": "maja/post-popup",
+    "description": "Popup that displays content of Custom Post Type 'Popup'",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Maja Kochanowska"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maja\\PostPopup\\": "",
+            "Maja\\PostPopup\\Modules\\": "modules"
+        }
+    }
+}

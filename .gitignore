@@ -1,0 +1,19 @@
+# temporary files
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+*.map
+__MACOSX
+Thumbs.db
+
+# IDE files
+*.sublime*
+*.vscode
+
+# built files
+node_modules
+dist
+vendor
